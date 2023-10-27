@@ -1,0 +1,101 @@
+//Main
+1 Blightstep Pathway // Searstep Pathway
+1 Blood Crypt
+1 Bonders' Enclave
+1 Command Beacon
+1 Command Tower
+1 Cragcrown Pathway // Timbercrown Pathway
+1 Crucible of the Spirit Dragon
+1 Darkbore Pathway // Slitherbore Pathway
+1 Field of Ruin
+4 Forest
+1 Haven of the Spirit Dragon
+1 Jeweled Lotus
+1 Lotus Bloom
+1 Mosswort Bridge
+4 Mountain
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Profane Tutor
+1 Reliquary Tower
+1 Rootbound Crag
+1 Scavenger Grounds
+1 Spinerock Knoll
+1 Stomping Ground
+4 Swamp
+1 Verdant Catacombs
+1 Vesuva
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Entomb
+1 Llanowar Elves
+1 Reanimate
+1 Sol Ring
+1 Vampiric Tutor
+1 Vandalblast
+1 Worldly Tutor
+1 Animate Dead
+1 Arcane Signet
+1 Dragon Tempest
+1 Exhume
+1 Rampant Growth
+1 Ransack the Lab
+1 Sakura-Tribe Elder
+1 Signal the Clans
+1 Sylvan Library
+1 Terminate
+1 Time of Need
+1 Whisperer of the Wilds
+1 Zhur-Taa Druid
+1 Beast Within
+1 Buried Alive
+1 Discerning Taste
+1 Draconic Disciple
+1 Jeska's Will
+1 Rift Sower
+1 Sarkhan's Triumph
+1 Search for Tomorrow
+1 Valakut Awakening // Valakut Stoneforge
+1 Crucible of Fire
+1 Deadly Rollick
+1 Dread Return
+1 Flameshadow Conjuring
+1 Frontier Siege
+1 Leyline Tyrant
+1 Panharmonicon
+1 Solemn Simulacrum
+1 Crux of Fate
+1 Obsidian Charmaw
+1 Patriarch's Bidding
+1 Rise Again
+1 Rise from the Grave
+1 Sarkhan the Masterless
+1 Sarkhan, the Dragonspeaker
+1 Terror of the Peaks
+1 Vanquisher's Banner
+1 Xenagos, God of Revels
+1 Dragon Broodmother
+1 Etali, Primal Storm
+1 Hellkite Courser
+1 Lathliss, Dragon Queen
+1 See the Unwritten
+1 Steel Hellkite
+1 Karrthus, Tyrant of Jund #!Commander
+1 Atarka, World Render
+1 Bladewing the Risen
+1 Darigaaz Reincarnated
+1 Dragonlord Atarka
+1 Drakuseth, Maw of Flames
+1 Terror of Mount Velus
+1 Ugin, the Spirit Dragon
+1 Utvara Hellkite
+
+//Maybeboard
+1 Boneyard Scourge
+1 Zombify
+1 Fearsome Awakening
+1 Ever After
+1 Haunting Voyage
+1 Blasphemous Act
+1 Rise of the Dark Realms
